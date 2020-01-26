@@ -1,0 +1,21 @@
+{
+  "name": "PixiTesting_MidJan2020_file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "pixiFileBasedTest.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pixi/app": "latest",
+    "@pixi/core": "latest",
+    "@pixi/loaders": "latest",
+    "@pixi/sprite": "latest",
+    "@pixi/ticker": "latest",
+    "node": "^13.6.0",
+    "pixi.js": "^5.2.0"
+  }
+}
