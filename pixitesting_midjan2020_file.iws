@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bcdd239-9367-4e8d-b2af-a474793e0e57" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pixitesting_midjan2020_file.iws" beforeDir="false" afterPath="$PROJECT_DIR$/pixitesting_midjan2020_file.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580017779867</updated>
-      <workItem from="1580017784419" duration="4463000" />
+      <workItem from="1580017784419" duration="4721000" />
     </task>
     <task id="LOCAL-00001" summary="test blank">
       <created>1580054031016</created>
