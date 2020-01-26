@@ -533,6 +533,7 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1Wv6ZvUdgKXqRktE62M9lcgGvPU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -628,30 +629,34 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="461" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1580051835392" />
-    <state x="0" y="54" key="CommitChangelistDialog2" timestamp="1580053470385">
+    <state x="0" y="54" key="CommitChangelistDialog2" timestamp="1580054048236">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="0" y="54" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1580053470385" />
-    <state width="1398" height="238" key="GridCell.Tab.0.bottom" timestamp="1580053086102">
+    <state x="0" y="54" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1580054048236" />
+    <state width="1398" height="238" key="GridCell.Tab.0.bottom" timestamp="1580054035679">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="238" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580053086102" />
-    <state width="1398" height="238" key="GridCell.Tab.0.center" timestamp="1580053086101">
+    <state width="1398" height="238" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580054035679" />
+    <state width="1398" height="238" key="GridCell.Tab.0.center" timestamp="1580054035676">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="238" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580053086101" />
-    <state width="1398" height="238" key="GridCell.Tab.0.left" timestamp="1580053086101">
+    <state width="1398" height="238" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580054035676" />
+    <state width="1398" height="238" key="GridCell.Tab.0.left" timestamp="1580054035675">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="238" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580053086101" />
-    <state width="1398" height="238" key="GridCell.Tab.0.right" timestamp="1580053086102">
+    <state width="1398" height="238" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580054035675" />
+    <state width="1398" height="238" key="GridCell.Tab.0.right" timestamp="1580054035678">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="238" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580053086102" />
+    <state width="1398" height="238" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580054035678" />
     <state x="229" y="89" key="SettingsEditor" timestamp="1580053981488">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1580053981488" />
+    <state x="509" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580054062100">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="509" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1580054062100" />
     <state x="114" y="176" key="new project wizard" timestamp="1580018426324">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
